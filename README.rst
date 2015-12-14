@@ -1,8 +1,8 @@
 ==============================================
-w2vot - Word2vec over time
+w2vot - Word2Vec over time
 ==============================================
 
-The code is based on the word2vec code found in `gensim <http://github.com/piskvorky/gensim/>`_. 
+The code is an extension of the Word2Vec code found in `gensim <http://github.com/piskvorky/gensim/>`_. 
 
 Installation
 ------------
