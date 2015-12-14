@@ -6,7 +6,7 @@ The code is based on the word2vec code found in `gensim <http://github.com/piskv
 
 Installation
 ------------
-
+Coming soon. 
 ----------------
 
 w2vot is open source software released under the `GNU LGPL license <http://www.gnu.org/licenses/lgpl.html>`_.
